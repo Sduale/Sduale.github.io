@@ -1,0 +1,23 @@
+h1 {
+	border-bottom: 3px solid black;
+	border-right: 3px solid black;
+}
+
+
+h4 {
+	border-bottom: 3px solid black;
+	border-right: 3px solid black;
+}
+
+
+
+ul {
+	font-style: italic
+}
+
+body {
+	background-image: url(primebackground.JPG);
+	background-repeat: no-repeat
+	background-size: cover;
+	
+}
